@@ -9,7 +9,5 @@ A F&B manager wants to determine whether there is any significant difference in 
 # Question 3
   Sales of products in four different regions is tabulated for males and females. Find if male-female buyer rations are similar across regions.
 
-![image](https://github.com/Siddhant1803/Hypothesis-testing/assets/127285389/17123bbe-426c-4d14-9f32-209739ccc951)
-
 # Question 4
 TeleCall uses 4 centers around the globe to process customer order forms. They audit a certain % of the customer order forms. Any error in order form renders it defective and has to be reworked before processing. The manager wants to check whether the defective % varies by centre. Please analyze the data at 5% significance level and help the manager draw appropriate inferences
